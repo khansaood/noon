@@ -1,0 +1,261 @@
+.background {
+  background-color: #feee00;
+  color: black;
+}
+
+.inpwid {
+  padding: 1rem;
+  width: 60vw;
+  height: 2.2rem;
+  border-radius: 0.3rem;
+  font-size: 13px;
+}
+
+.mset {
+  margin-left: 21px;
+  padding: 5px;
+  /* align-items: center; */
+}
+.cart {
+  border-left: 1px solid gray;
+  /* padding: 5px; */
+}
+
+.navset {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+.active {
+  border-left: 1px solid gainsboro;
+  padding: 3%;
+}
+.bnf {
+  font-size: 12px;
+  width: 160px;
+}
+.bnt {
+  font-size: 13px;
+}
+.slide {
+  margin: 0px;
+  padding: 0px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.imgset {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.imgrowset {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.imgrow {
+  width: 110px;
+  margin: 5px;
+}
+
+.imgrowtwo {
+  width: 290px;
+  margin: 5px;
+}
+.imgrowthree {
+  width: 630px;
+  margin: 5px;
+}
+
+.homekitchen {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.hnk {
+  width: 400px;
+  margin: 8px;
+}
+
+.midcontainer {
+  /* margin: 0 auto; */
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.menscollectiondiv {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.menscollection {
+  width: 180px;
+  margin: 5px;
+}
+.submenscollection {
+  width: 140px;
+  margin: 10px;
+}
+.hthree {
+  background-color: whitesmoke;
+  margin-top: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.mdlbtn {
+  display: block;
+  margin: 30px auto;
+  border-radius: 5px;
+  width: 10%;
+  background-color: whitesmoke;
+  color: royalblue;
+  border: gainsboro 3px solid;
+}
+
+.hthreebtn {
+  border: gainsboro 1px solid;
+  height: 35px;
+  color: royalblue;
+}
+
+.mensbeg {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.mensbegcard {
+  margin: 5px;
+}
+.foterset {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.mainfotr {
+  background-color: #e4e6eb;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: #a9a9a9 1px solid;
+}
+.fontset {
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.footertext {
+  padding: 10px;
+}
+.footertextsub {
+  color: gray;
+}
+
+.mainfotrset {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fotrlogo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 100px;
+  color: black;
+  border: 1px gray solid;
+  margin: 20px;
+}
+
+.mainfotrli {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.subfotrli {
+  list-style: none;
+  margin-top: 15px;
+  color: #616161;
+  font-size: 14px;
+}
+.fotriconbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fotricon {
+  display: inline-block;
+  background-color: yellow;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3px;
+}
+.mainsubfotr {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.botmtext {
+  color: #616161;
+  text-align: center;
+  font-size: 13px;
+}
+.leastfotr {
+  padding: 20px;
+  color: #616161;
+  font-size: 13px;
+  background-color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.leastfotr p {
+  margin: 0px;
+}
+.leastfotr ul {
+  margin: 0px;
+}
+.leasticone {
+  font-size: 20px;
+}
+
+.leastli {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  font-size: 13px;
+  color: #616161;
+}
+.leastli li {
+  margin: 5x;
+}
+.leasticoneli {
+  margin: 8px;
+}

@@ -1,0 +1,38 @@
+.col {
+  margin: 0px;
+  padding: 0px;
+}
+.card {
+  position: relative;
+  border: gainsboro 1px solid;
+  width: 180px;
+  padding: 5px;
+  margin: 0px;
+}
+
+.datadiv {
+  background-color: whitesmoke;
+  padding: 12px;
+}
+
+.name {
+  background-color: gainsboro;
+  border-radius: 5px;
+  font-weight: lighter;
+  text-align: center;
+}
+.prise {
+  font-weight: bolder;
+  font-size: 17px;
+  text-decoration: underline;
+}
+
+.updatedate {
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.picexpress {
+  margin-top: 18px;
+  width: 35%;
+}
